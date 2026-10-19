@@ -5,7 +5,7 @@ IT Support / Systems Admin in Los Angeles. I automate the repetitive parts of IT
 ### What I work with
 - **Identity & access:** Active Directory, Okta, Entra ID / Azure AD
 - **Email / Microsoft 365:** Exchange Online, on-prem Exchange to Exchange Online migrations
-- **Endpoints:** Tanium (automated software deployment), Windows 10/11 troubleshooting, upgrade repair, event log analysis, POS/retail support
+- **Endpoints:** Tanium (automated software deployment), Jamf (macOS), SOTI MobiControl (Android), Windows 10/11 troubleshooting, upgrade repair, event log analysis, POS/retail support
 - **Scripting:** PowerShell (WinForms/WPF GUIs, REST APIs, bulk CSV workflows)
 - **Studying:** CCNA
 
