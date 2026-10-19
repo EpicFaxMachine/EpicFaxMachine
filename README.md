@@ -1,11 +1,11 @@
 ## Hey, I'm Jose 👋
 
-IT Support / Systems Admin in Los Angeles. I automate the repetitive parts of IT so tickets close faster and nothing gets missed: onboarding, offboarding, access requests, audits, and Windows endpoint fixes.
+IT Support / Systems Admin in Los Angeles. I automate the repetitive parts of IT so tickets close faster and nothing gets missed: onboarding, offboarding, access requests, audits, software installs, and Windows endpoint fixes.
 
 ### What I work with
 - **Identity & access:** Active Directory, Okta, Entra ID / Azure AD
-- **Messaging:** Exchange Online, on-prem Exchange to EXO migrations
-- **Endpoints:** Windows 10/11 troubleshooting, upgrade repair, event log analysis, POS/retail support
+- **Email / Microsoft 365:** Exchange Online, on-prem Exchange to Exchange Online migrations
+- **Endpoints:** Tanium (automated software deployment), Windows 10/11 troubleshooting, upgrade repair, event log analysis, POS/retail support
 - **Scripting:** PowerShell (WinForms/WPF GUIs, REST APIs, bulk CSV workflows)
 - **Studying:** CCNA
 
